@@ -3,7 +3,7 @@
 
 var ReactNative = require('react-native');
 var React = require('react');
-var PropTypes = require('prop-types');
+var PropTypes = require('deprecated-react-native-prop-types').PropTypes;
 var {
     requireNativeComponent,
     View,
